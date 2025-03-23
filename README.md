@@ -1,4 +1,4 @@
-# 🛩️Database Class (PHP)
+# 🛩️Database Class (PDO)
 
 ## 👀Overview
 This project provides a simple PHP class (`database.php`) for managing database connections and performing basic CRUD operations using `PDO`.
