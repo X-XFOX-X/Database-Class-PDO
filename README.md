@@ -21,8 +21,6 @@ This project provides a simple PHP class (`database.php`) for managing database 
 ## 🔮Usage
 ### Initialize the Database Connection
 ```php
-require 'database.php';
-
 $db = new database('your_table_name');
 ```
 
